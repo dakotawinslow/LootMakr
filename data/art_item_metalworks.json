@@ -1,0 +1,18 @@
+[
+  {
+    "name": "A metal sculpture of %%art_item_singular_subject%%",
+    "prob": 0.1
+  },
+  {
+    "name": "Metal miniatures, all various forms of %%art_item_singular_subject%%",
+    "prob": 0.1
+  },
+  {
+    "name": "Metal tools",
+    "prob": 0.1
+  },
+  {
+    "name": "A collection of fine silverware",
+    "prob": 0.1
+  }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "$$material_common$$",
+        "prob": 5
+    },
+    {
+        "name": "$$material_rare$$",
+        "prob": 2
+    },
+    {
+        "name": "$$material_exotic$$",
+        "prob": 1
+    }
+]

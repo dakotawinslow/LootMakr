@@ -1,0 +1,26 @@
+[
+  {
+    "name": "A crude ceramic figure of %%art_item_singular_subject%%",
+    "prob": 0.1
+  },
+  {
+    "name": "A ceramic statue of %%art_item_singular_subject%%",
+    "prob": 0.1
+  },
+  {
+    "name": "Ceramic Tiles which, when arranged, depict %%art_item_scene_subject%%",
+    "prob": 0.1
+  },
+  {
+    "name": "A set of ceramic plates with various scenes of %%art_item_scene_subject%%",
+    "prob": 0.1
+  },
+  {
+    "name": "A ceramic vase with a scene of %%art_item_scene_subject%%",
+    "prob": 0.1
+  },
+  {
+    "name": "A burial urn with etchings depicting %%art_item_scene_subject%%",
+    "prob": 0.1
+  }
+]

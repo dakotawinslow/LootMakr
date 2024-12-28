@@ -1,0 +1,62 @@
+[
+  {
+    "name": "A pastel chalk drawing depicting %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Charcoal drawing of %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Colored pencil drawing showing %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Conte drawing depicting %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Crayon drawing of %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Graphite drawing showing %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Ink drawing depicting %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Calligraphy",
+    "prob": 0.1
+  },
+  {
+    "name": "A woodblock print of %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Illustrated manuscript",
+    "prob": 0.1
+  },
+  {
+    "name": "A hand-bound and written book",
+    "prob": 0.1
+  },
+  {
+    "name": "A printed book",
+    "prob": 0.1
+  },
+  {
+    "name": "Letter.",
+    "prob": 0.1
+  },
+  {
+    "name": "Drawing on Paper of %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "A folded paper figure of %%art_item_singular_subject%%.",
+    "prob": 0.1
+  }
+]

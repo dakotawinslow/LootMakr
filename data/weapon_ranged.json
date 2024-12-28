@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Dagger",
+    "category": [
+      "weapon_no_sword_like",
+      "weapon_throwable"
+    ],
+    "damage-type": "Pierce",
+    "damage-dice": "1d6",
+    "prob": 1.0
+  },
+  {
+    "name": "Bow",
+    "category": [
+      "weapon_projectile"
+    ],
+    "damage-type": "Pierce",
+    "damage-dice": "1d6",
+    "prob": 1.0
+  },
+  {
+    "name": "Crossbow",
+    "category": [
+      "weapon_projectile"
+    ],
+    "damage-type": "Pierce",
+    "damage-dice": "1d6",
+    "prob": 1.0
+  },
+  {
+    "name": "Sling",
+    "category": [
+      "weapon_projectile"
+    ],
+    "damage-type": "Blunt",
+    "damage-dice": "1d4",
+    "prob": 1.0
+  },
+  {
+    "name": "Javelin",
+    "category": [
+      "weapon_throwable"
+    ],
+    "damage-type": "Pierce",
+    "damage-dice": "1d10",
+    "prob": 1.0
+  }
+]

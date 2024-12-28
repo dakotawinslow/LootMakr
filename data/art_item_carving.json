@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Carved Bone that looks like %%art_item_singular_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Carved ivory in the shape of %%art_item_singular_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Scrimshaw depicting a %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "A carved stone statue of %%art_item_singular_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "A carved wooden statue of %%art_item_singular_subject%%.",
+    "prob": 0.1
+  }
+]

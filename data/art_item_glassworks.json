@@ -1,0 +1,26 @@
+[
+  {
+    "name": "A cloth bag of glass beads",
+    "prob": 0.1
+  },
+  {
+    "name": "Glass bottles",
+    "prob": 0.1
+  },
+  {
+    "name": "Glass lamp / chandelier",
+    "prob": 0.1
+  },
+  {
+    "name": "Glass goblets",
+    "prob": 0.1
+  },
+  {
+    "name": "Glass bowls",
+    "prob": 0.1
+  },
+  {
+    "name": "An engraved glass pane depicting a scene of %%art_item_scene_subject%%",
+    "prob": 0.1
+  }
+]

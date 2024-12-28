@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Acrylic painting depicting %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Oil painting of %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Gouache painting showing %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "China Ink painting depicting %%art_item_scene_subject%%.",
+    "prob": 0.1
+  },
+  {
+    "name": "Watercolor painting of %%art_item_scene_subject%%.",
+    "prob": 0.1
+  }
+]
