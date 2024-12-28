@@ -14,3 +14,6 @@ LootMaker is, at it's core, a random generator program. It will have a simple te
 `loot [options]`
 
 Invoking `loot` on it's own should generate a small treasure horde, the kind you might find on the first or second floor of a level-appropriate dungeon. How does it know level-appropriateness? A config file! The config stores party data, including the names, levels, classes, and primary weapons of the player charaacters. This takes most of the work out of loot generation - just set the config once per level-up and you are good to go!
+
+## Loot Generation Algorithm
+Party size and level determines a base treasure quota, which is then multiplied by the horde quality (scraps up to Dragon Horde) to determine the overall value of the horde. From there, items are generated one-at-a-time. Hordes of middling size and better are guarnateed to have at least one class-appropriate magic item per player. After each item is generated, its value is deducted from the overall quota until the target for overall value is reached.
